@@ -47,15 +47,3 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
-
-# ===== Python =====
-__pycache__/
-*.py[cod]
-*$py.class
-venv/
-.venv/
-env/
-.env
-*.so
-.pytest_cache/
-.mypy_cache/
